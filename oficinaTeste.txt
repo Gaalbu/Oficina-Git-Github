@@ -1,0 +1,12 @@
+OFICINA VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB
+
+INSTRUTOR: JOAO PEDRO 1
+
+
+
+
+
+esse é o arquivo de texte da oficina que receberá o nome:
+
+- Yago
+- João pedro
