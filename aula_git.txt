@@ -1,0 +1,16 @@
+na progamação git existe um fluxo de trabalho, com comandos.
+
+Git init: Inicar um repositório git em um diretório local, transformando-o em um repositório versionado
+
+Git add: adc arquivos modificados ou novos á área de preparação (staging area).
+
+Git commit: Salva as alterações adicionadas á area de preparação no repositório atual;
+---------------------------------------------------------------------------------------------------------------
+
+Branch: Cria um linha de desenvolvimento separada(ramificação).
+
+Merge: integração de branches.
+|-> uma boa prática após o Merge seria apagar as branches que foram integradas.
+
+Merge conflict: Quando dois desenvolvedores alteram o mesmo arquivo na mesma linha, ocorre um conflito de merge.
+|-> Conflitos são resolvidos manualmente, revisando o código conflitante.
