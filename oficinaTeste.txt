@@ -1,4 +1,13 @@
-Esse é o arquivo de texto da oficina que receberá o nome dos participantes:
+OFICINA VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB
 
--Yago
--Joao pedro
+INSTRUTOR: JOAO PEDRO 1
+
+
+
+
+
+esse é o arquivo de texte da oficina que receberá o nome:
+
+- Yago
+- João pedro
+
